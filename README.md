@@ -12,7 +12,7 @@ North.
 
 I believe Steve North wrote the BASIC program in the book.
 
-This program has dependancies on this repository:
+This program has dependancies on libraries in this repository:
 
 https://github.com/tallLeRoy/libs
 
